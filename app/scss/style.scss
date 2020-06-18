@@ -1,0 +1,16 @@
+$bg-color:#cecece;
+$black:#000000;
+
+html{
+    box-sizing: border-box;
+    font-size: 100%;
+
+}
+*, *:before,*:after{
+    box-sizing: inherit;
+}
+body{
+    padding: 20px;
+    background-color: $bg-color;
+    color: red;
+}
